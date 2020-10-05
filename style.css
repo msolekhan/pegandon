@@ -1,0 +1,67 @@
+
+	/*icon sosmed*/
+ .icon i{
+	padding-right:30px;
+}
+.header nav{
+	background-color: #FDF78F;
+}
+ 
+ /*logo dan teks*/
+.navbar-brand {
+	display: flex;
+}
+.navbar-brand h3{
+	padding-left: 20px;
+	padding-top: 7px;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+/*marquee*/
+.marquee{
+	background-color: #765419;
+	font-family: sans-serif;
+	padding-top: 6px;
+	color: white;
+}
+.navbar {
+	position: sticky !important;
+	top: 0;
+	z-index: 1;
+}
+
+.carousel-inner img{
+	width: 300px;
+	height: 400px;
+/*	position: relative;
+	right: 370px;*/
+/*	padding-right:370px;*/
+}
+
+/*.carousel-inner h5{
+	position: absolute;
+}
+.carousel-inner p{
+	position: absolute;
+*/
+/*}*/
+
+/*.carousel-indicators li {
+	position: relative;
+	right: 200px;*/
+/*}*/
+/*.carousel-control-prev {
+	left: 70px;
+}
+.carousel-control-next {
+	right: 70px;
+	
+}
+*/ .card {
+ 	margin: 10px;
+ }
+
+ .col-md-9 h4{
+ 	margin-top: 10px;
+ }
+
